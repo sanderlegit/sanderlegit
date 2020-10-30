@@ -6,8 +6,6 @@ Also experienced as Full Stack Web Dev (specialty PHP, JS)
 Scroll down to see some of my work!
 
 <p><sub>Developers I trust:</sub></p>
-<p>
 [![github](https://img.shields.io/badge/-@VictorTennekes-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/VictorTennekes/)
 [![github](https://img.shields.io/badge/-@potatokuka-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/potatokuka/)
 [![github](https://img.shields.io/badge/-@Tishj-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/Tishj/)
-</p>
