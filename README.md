@@ -1,7 +1,7 @@
 ### Hi! I'm Sander. 
 [![linkedin](https://img.shields.io/badge/-@sander_verheijen-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/sander-verheijen-b7a1651a5/)
 
-I'm a software engineering student at [Codam Coding College](https://www.codam.nl) (Clang, and more).<br>
+I'm a software engineering student at [Codam Coding College](https://www.codam.nl) (Clang, CPP, Bash, Kubernetes, and more).<br>
 Also a graduated and somewhat experienced Full Stack Web Dev (specialty PHP, JS) [Codefactory Wien](https://codefactory.wien/en/home-en/).<br>
 Scroll down to see some of my work!
 
