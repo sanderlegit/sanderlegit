@@ -3,6 +3,7 @@
 
 I'm a software engineering student at [Codam Coding College](https://www.codam.nl) (Clang, CPP, Bash, Kubernetes, and more).<br>
 Also a graduated and somewhat experienced Full Stack Web Dev (specialty PHP, JS) [Codefactory Wien](https://codefactory.wien/en/home-en/).<br>
+Currently working as a back-end dev at [Cybermundus!](https://www.cybermundus.com/)<br>
 Scroll down to see some of my work!
 
 Other developers I trust:<br>
